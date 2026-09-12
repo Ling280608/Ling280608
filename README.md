@@ -28,8 +28,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ling280608&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ling280608&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=Ling280608&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ling280608&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ### 🔥 Streak
