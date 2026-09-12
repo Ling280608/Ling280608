@@ -1,6 +1,6 @@
 <!-- Banner: capsule-render -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=180&section=header&text=Ling280608&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20Code%20home&descAlignY=55&descSize=18" alt="Ling280608" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=180&section=header&text=Ling280608&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20Code%20home&descAlignY=55&descSize=18" alt="Ling" />
 </div>
 
 <!-- Typing SVG -->
