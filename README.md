@@ -1,20 +1,16 @@
-## Hi there 👋
+## Hi ! 👋 Welcome to my Code home
 
-### 📊 GitHub Stats
+<!--
+**Ling280608/Ling280608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ling280608&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ling280608&layout=compact&theme=tokyonight" />
-</p>
+Here are some ideas to get you started:
 
-### 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ling280608&theme=tokyonight" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ling280608&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
-</p>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
